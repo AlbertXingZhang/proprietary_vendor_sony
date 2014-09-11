@@ -20,8 +20,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/hayabusa/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
     vendor/sony/hayabusa/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/sony/hayabusa/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
-    vendor/sony/hayabusa/proprietary/lib/hw/vendor-camera.msm8960.so:system/lib/hw/vendor-camera.msm8960.so \
-    vendor/sony/hayabusa/proprietary/lib/hw/vendor-camera.qcom.so:system/lib/hw/vendor-camera.qcom.so \
+    vendor/sony/hayabusa/proprietary/lib/hw/camera.vendor.qcom.so:system/lib/hw/camera.vendor.qcom.so \
     vendor/sony/hayabusa/proprietary/lib/libcamera_clientsemc.so:system/lib/libcamera_clientsemc.so \
     vendor/sony/hayabusa/proprietary/lib/libcameralight.so:system/lib/libcameralight.so \
     vendor/sony/hayabusa/proprietary/lib/libmmcamera_3a_legacy.so:system/lib/libmmcamera_3a_legacy.so \
