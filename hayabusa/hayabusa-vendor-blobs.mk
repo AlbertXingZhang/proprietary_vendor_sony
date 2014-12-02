@@ -27,7 +27,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/hayabusa/proprietary/bin/gpsone_daemon:system/bin/gpsone_daemon \
     vendor/sony/hayabusa/proprietary/bin/gsiff_daemon:system/bin/gsiff_daemon \
     vendor/sony/hayabusa/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
-    vendor/sony/hayabusa/proprietary/bin/illumination_service:system/bin/illumination_service \
     vendor/sony/hayabusa/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/sony/hayabusa/proprietary/bin/location-mq:system/bin/location-mq \
     vendor/sony/hayabusa/proprietary/bin/lowi-server:system/bin/lowi-server \
@@ -154,7 +153,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/hayabusa/proprietary/etc/flashled_calc_parameters.cfg:system/etc/flashled_calc_parameters.cfg \
     vendor/sony/hayabusa/proprietary/lib/hw/camera.vendor.qcom.so:system/lib/hw/camera.vendor.qcom.so \
     vendor/sony/hayabusa/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
-    vendor/sony/hayabusa/proprietary/lib/hw/lights.vendor.default.so:system/lib/hw/lights.vendor.default.so \
     vendor/sony/hayabusa/proprietary/lib/hw/nfc.msm8960.so:system/lib/hw/nfc.msm8960.so \
     vendor/sony/hayabusa/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
     vendor/sony/hayabusa/proprietary/lib/libadsprpc.so:system/lib/libadsprpc.so \
@@ -192,7 +190,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/hayabusa/proprietary/lib/libimage-jpeg-enc-omx-comp.so:system/lib/libimage-jpeg-enc-omx-comp.so \
     vendor/sony/hayabusa/proprietary/lib/libimage-omx-common.so:system/lib/libimage-omx-common.so \
     vendor/sony/hayabusa/proprietary/lib/libkeyctrl.so:system/lib/libkeyctrl.so \
-    vendor/sony/hayabusa/proprietary/lib/liblights-core.so:system/lib/liblights-core.so \
     vendor/sony/hayabusa/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/sony/hayabusa/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
     vendor/sony/hayabusa/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
