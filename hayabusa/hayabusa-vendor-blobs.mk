@@ -30,7 +30,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/hayabusa/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/sony/hayabusa/proprietary/bin/location-mq:system/bin/location-mq \
     vendor/sony/hayabusa/proprietary/bin/lowi-server:system/bin/lowi-server \
-    vendor/sony/hayabusa/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
     vendor/sony/hayabusa/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/sony/hayabusa/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/sony/hayabusa/proprietary/bin/qmuxd:system/bin/qmuxd \
