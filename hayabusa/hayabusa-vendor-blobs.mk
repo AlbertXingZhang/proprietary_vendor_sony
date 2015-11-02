@@ -17,7 +17,6 @@
 PRODUCT_COPY_FILES += \
     vendor/sony/hayabusa/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/sony/hayabusa/proprietary/bin/cal_data_manager:system/bin/cal_data_manager \
-    vendor/sony/hayabusa/proprietary/bin/chargemon:system/bin/chargemon \
     vendor/sony/hayabusa/proprietary/bin/clearpad_fwloader:system/bin/clearpad_fwloader \
     vendor/sony/hayabusa/proprietary/bin/cnd:system/bin/cnd \
     vendor/sony/hayabusa/proprietary/bin/ds_fmc_appd:system/bin/ds_fmc_appd \
