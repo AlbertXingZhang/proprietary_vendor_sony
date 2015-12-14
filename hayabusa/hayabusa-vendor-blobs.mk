@@ -40,7 +40,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/hayabusa/proprietary/bin/taimport:system/bin/taimport \
     vendor/sony/hayabusa/proprietary/bin/ta_param_loader:system/bin/ta_param_loader \
     vendor/sony/hayabusa/proprietary/bin/ta_qmi_service:system/bin/ta_qmi_service \
-    vendor/sony/hayabusa/proprietary/bin/thermald:system/bin/thermald \
     vendor/sony/hayabusa/proprietary/bin/updatemiscta:system/bin/updatemiscta \
     vendor/sony/hayabusa/proprietary/bin/usbhub:system/bin/usbhub \
     vendor/sony/hayabusa/proprietary/bin/usbhub_init:system/bin/usbhub_init \
